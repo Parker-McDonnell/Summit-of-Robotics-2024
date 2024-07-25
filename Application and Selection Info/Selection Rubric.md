@@ -1,4 +1,4 @@
-Hi there!
+Hi there! 👋
 
 We're looking for students who are passionate about robotics! Want to join us?
 
