@@ -1,2 +1,4 @@
-# Summit-of-Robotics-2024
-Open-source files and links to video recordings for live workshops from this year's Summit of Robotics retreat!
+# Welcome to the Info Page for the Summit-of-Robotics-2024!
+
+Got questions? Find answers here! 
+We have info on: Application info and selection criteria, Event details, and Workshop files and recordings.
