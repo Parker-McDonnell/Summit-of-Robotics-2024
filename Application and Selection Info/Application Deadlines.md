@@ -1,4 +1,4 @@
-Hey! Need to know when some deadlines are?
+Hey! Need to know when some deadlines are? 📅
 
 Please send us your application by September 13. Do that, and we'll get back to you on September 20!
 
