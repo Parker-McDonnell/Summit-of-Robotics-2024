@@ -1,1 +1,1 @@
-Hey! We'll put general information about the retreat here!
+Hey! We'll put general information about the retreat here! 📒
