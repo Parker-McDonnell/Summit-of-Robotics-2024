@@ -24,3 +24,13 @@ To give you an example, I spent some of my undergraduate as the president of the
 growing a 3-person weekly hangout to a consistent 30 member club, and I am happy to say that club is still going strong with similarly large weekly turnouts to this day (7 years later) (https://www.instagram.com/osulongboardclub/).
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/angie-volchko/
+
+# James Watson
+I'm a 6th year PhD student in the Correll Lab studying Open-World Planning Under Uncertainty. 
+Prior to my PhD work, my background covered Mechanical Engineering (BS @ UIUC, MS @ U of Utah), Nuclear Power (Systems Engineer), and Diesel-Generator Technology (Lead Test Engineer).
+
+While at CU, I have had the honor of studying symbolic planning for NASA, desert habitat restoration for NSF, and placing 2nd in international robotic manipulation competition at IROS in Macao!  It's been quite a ride, and I hope to leverage my experience in the rapidly-expanding research and development of Robotic Precision Agriculture.
+
+In my (scarce) spare time I enjoy sewing, hiking, and computer graphics.
+
+https://www.linkedin.com/in/jamesrwatson/
