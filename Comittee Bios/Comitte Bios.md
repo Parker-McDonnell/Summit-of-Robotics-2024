@@ -9,3 +9,18 @@ Hi! Want to learn more about the planning comittee members? Here you go!
   Speaking of Ohio... That's my home state (I swear, it's a real place 😅)! I also did my undergraduate degree in mechanical engineering there through Sinclair Community College and Wright State University. My degree track focused on materials and design, and I landed a two-year internship at the Air Force Research Lab. My research there was focused on novel additive manufacturing processes for laser-powder-bed-fusion techniques. That's also when I really started writing a LOT of code, and my advisor there pushed me to think about grad school. So here I am!  
   I also enjoy sharing my passion for robotics with others, especially kids! I helped teach an intro course offered by my library for programming and arduino-based robotics all the way back in my high school days. More recently, I made a few trips out to Pagosa Springs High School to teach teens about air quality monitoring and to mentor them as they designed and ran their own experiments using monitoring devices developed here at CU!  
   For contact and professional information, email me at: ludu7475@colorado.edu or find me on LinkedIn: https://www.linkedin.com/in/lucas-duncan-659784211/
+
+
+# Angie Volchko
+I'm a 6th year PhD student in the Bio-Inspired Perception and Robotics Lab (BPRL 🪰) studying control theory and soft robots 🐙. 
+However, I didn't know too much about robots prior to graduate school, and ended up here simply following my passion for math and control systems engineering. 
+
+I have had a lot of amazing leadership opportunities during my time here at CU, from leading the graduate recruitment event for the mechanical engineering department, to helping allocate nearly $500,000 a year to inspire students and faculty to help innovate ways to improve the engineering education here at CU,
+to instructing the undergraduate dynamics course in the mechanical engineering department this fall.
+
+I love the community aspect of the research world here at CU Boulder and am really excited to make it even stronger. 
+I strive to help build community wherever I go, and that's why I am really excited for this retreat. 
+To give you an example, I spent some of my undergraduate as the president of the longboarding club at Ohio State, 
+growing a 3-person weekly hangout to a consistent 30 member club, and I am happy to say that club is still going strong with similarly large weekly turnouts to this day (7 years later) (https://www.instagram.com/osulongboardclub/).
+
+Connect with me on LinkedIn: https://www.linkedin.com/in/angie-volchko/
