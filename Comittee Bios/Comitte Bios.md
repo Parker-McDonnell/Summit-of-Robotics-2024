@@ -18,10 +18,10 @@ However, I didn't know too much about robots prior to graduate school, and ended
 I have had a lot of amazing leadership opportunities during my time here at CU, from leading the graduate recruitment event for the mechanical engineering department, to helping allocate nearly $500,000 a year to inspire students and faculty to help innovate ways to improve the engineering education here at CU,
 to instructing the undergraduate dynamics course in the mechanical engineering department this fall.
 
-I love the community aspect of the research world here at CU Boulder and am really excited to make it even stronger. 
 I strive to help build community wherever I go, and that's why I am really excited for this retreat. 
 To give you an example, I spent some of my undergraduate as the president of the longboarding club at Ohio State, 
 growing a 3-person weekly hangout to a consistent 30 member club, and I am happy to say that club is still going strong with similarly large weekly turnouts to this day (7 years later) (https://www.instagram.com/osulongboardclub/).
+I love the community aspect of the research world here at CU Boulder and am really excited to make it even stronger. 
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/angie-volchko/
 
