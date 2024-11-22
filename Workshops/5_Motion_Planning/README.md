@@ -11,3 +11,4 @@ In this workshop we will use Webots to simulate the implementation of popular sa
    - rrt_star.wbt
    - rrt_puck.py
    - rrt_supervisor.py
+3. During the workshop I will show you where to place these files and how to run them.
