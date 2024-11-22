@@ -13,7 +13,8 @@ Download and install the following:
 2. Computer Vision Toolbox
 3. Image Processing Toolbox
 4. LIDAR Toolbox
-5. Asteroid image set from this URL: https://o365coloradoedu-my.sharepoint.com/:u:/g/personal/javi9068_colorado_edu/EZuukF3Hh-hFtyEiZMmad8oBErY_YiNCVxSpv8fsa10Ltw?e=avCjt0.
+5. Navigation Toolbox
+6. Asteroid image set from this URL: https://o365coloradoedu-my.sharepoint.com/:u:/g/personal/javi9068_colorado_edu/EZuukF3Hh-hFtyEiZMmad8oBErY_YiNCVxSpv8fsa10Ltw?e=avCjt0.
 
 Password: asteroid
 ```
