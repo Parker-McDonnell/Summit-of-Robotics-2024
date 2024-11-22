@@ -35,7 +35,7 @@ The ESP32 is directly connected to an HC SR04 sensor. The trigger pin is connect
 ```
 
 # Installation
-1. Clone [RyanDraves/robo-24-workshop](github.com.RyanDraves/robo-24-workshop)
+1. Clone the entire Summit-of-Robotics-2024 repo, and navigate to the 1_Embedded_Systems folder.
 1. Setup the ESP IDF (v5.2.3). If using the web instructions, run the `./install.sh` script the args `./install.sh esp32c3 --enable-pytest`
   - Ubuntu & MacOS
     - Run `./setup.sh`. This will prompt for a `sudo` password early on, then can run in the background
