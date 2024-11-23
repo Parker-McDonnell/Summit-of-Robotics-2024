@@ -150,7 +150,7 @@ pc_merged_bodyframe = (rot_cam2ast(:,:,1) * pc_merged.Location' + cam_pos_true(:
 pc_merged_bodyframe = pointCloud(pc_merged_bodyframe);
 
 % Load ground-truth point cloud
-mesh_true = readSurfaceMesh('/Users/javi9068/Desktop/cloudnav_pso/Eros Gaskell 200k poly.obj');
+mesh_true = readSurfaceMesh('Eros Gaskell 200k poly.obj');
 pc_true = pointCloud(mesh_true.Vertices);
 
 % Compare reconstructed point cloud with ground truth
